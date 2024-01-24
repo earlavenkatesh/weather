@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("./wether.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  h1 {
+    color: #4CAF50;
+  }
+  
+  #cityinput {
+    padding: 8px;
+    margin: 10px;
+  }
+  
+  #add {
+    padding: 8px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #add:hover {
+    background-color: #45a049;
+  }
+  
+  #weather-info {
+    margin-top: 20px;
+  }
